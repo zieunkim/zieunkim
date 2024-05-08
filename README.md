@@ -16,7 +16,6 @@ Hi! 🌀
     <img src="https://img.shields.io/badge/Python-6DB33F?style=for-the-badge&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Pytorch-FE2E2E?style=for-the-badge&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/CV-007396?style=for-the-badge&logoColor=white"/></a>&nbsp;
-    <img src="https://img.shields.io/badge/Object Detection-00599C?style=for-the-badge&logoColor=white"/></a>&nbsp;
 
 </p>
 <h3>Contact</h3>
