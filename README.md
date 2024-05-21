@@ -5,11 +5,6 @@
 Hi! 🌀
 <br> I'm a growing AI Researcher.🧑🏼‍💻
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzieunkim&count_bg=%23C6DBDA&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=zieunkim&count_private=true&show_icons=true&theme=graywhite&hide_title=true&layout=compact) 
-
-
 </p>
 <h3>Tech Stack</h3>
 <p>
